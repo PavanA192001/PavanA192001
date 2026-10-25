@@ -11,5 +11,5 @@ React Native · Expo · TypeScript · JavaScript · Redux Toolkit · React Navig
 - Building **offline-expense-tracker**, an open-source Expo + TypeScript app that demonstrates offline-first sync (local storage, change queue, background sync with retries). Coming soon.
 
 ## Connect
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/pavan-a-5a5746253
 - Email: pavanbaliavt19@gmail.com
