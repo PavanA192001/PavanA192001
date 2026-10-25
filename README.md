@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**PavanA192001/PavanA192001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**React Native Developer** based in Bengaluru, India.
 
-Here are some ideas to get you started:
+I build offline-first iOS and Android apps, and I've shipped production apps to the Play Store and TestFlight. I enjoy making mobile apps that keep working when the network doesn't.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+React Native · Expo · TypeScript · JavaScript · Redux Toolkit · React Navigation · REST APIs · Stripe · EAS Build · Git
+
+## What I'm working on
+- Building **offline-expense-tracker**, an open-source Expo + TypeScript app that demonstrates offline-first sync (local storage, change queue, background sync with retries). Coming soon.
+
+## Connect
+- LinkedIn: [your LinkedIn URL]
+- Email: pavanbaliavt19@gmail.com
